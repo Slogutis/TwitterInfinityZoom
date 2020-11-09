@@ -1,0 +1,9 @@
+Package: com.abdullah.twitterinfintyzoom
+Name: TwitterInfinityZoom
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Infinity Zoom for twitter photos 
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
